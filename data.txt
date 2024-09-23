@@ -1,0 +1,7 @@
+{
+  "email": "alecsandr.unit@gmail.com",
+  "login": "logw123",
+  "password": "123",
+  "confirm": "123",
+  "attempts": 0
+}
